@@ -1,2 +1,2 @@
 # matlab-xdmf
-Routines that can generate XDMF visualization using XDFM files.
+Routines that can generate XDMF visualization using HDF5 files.
